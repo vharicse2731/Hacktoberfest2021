@@ -1,0 +1,8 @@
+Important tips:
+1. Try to use the given varibale - dont try to use new one - for example use n-- rather than new var a, for a==n;
+2. if found a sequence - most ans will be n*(n+1)/2 or n*(n-1)/2
+3. for circular operation - do while loop - preferable
+4. Tress problem - always handle NULL condition
+5. If one no.(b) is a power of another(a) - log(b)/log(a) = result is in int not float
+6. set bit - __builtin_popcount(num)
+7. summ of digits of number recur untill single digit - if(num%9==) return 9 return num%9;
