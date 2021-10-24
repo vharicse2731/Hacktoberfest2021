@@ -1,0 +1,28 @@
+
+6:00 to 9:0 AM
+
+STRINGS:
+https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string/0
+https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0
+https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string/0
+
+LINKED LIST:
+https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1
+https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1
+https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1
+
+
+11:00 - 2:30 PM
+
+STACKS AND QUEUES:
+https://practice.geeksforgeeks.org/problems/parenthesis-checker/0
+https://practice.geeksforgeeks.org/problems/next-larger-element/0
+https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1
+
+
+TREES:
+https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3415/
+https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1 (Recur,Iter)
+https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1/ (Recur,Iter)
+https://practice.geeksforgeeks.org/problems/check-for-bst/1
+
